@@ -1,15 +1,3 @@
-buildscript {
-    repositories {
-        mavenCentral()
-        flatDir {
-            dirs 'libs' // Папка, де зберігається локальний JAR-файл
-        }
-    }
-    dependencies {
-        classpath files('libs/kotlin-gradle-plugin-1.8.0-gradle75.jar')
-    }
-}
-
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
