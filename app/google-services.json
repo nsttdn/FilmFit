@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307567019656",
+    "project_id": "filmfit-62de8",
+    "storage_bucket": "filmfit-62de8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307567019656:android:30212e42d8438e28f1813d",
+        "android_client_info": {
+          "package_name": "com.example.filmfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnclewdwgNnUBWnktq2EWMm3AXP4rkQ2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
